@@ -2,6 +2,9 @@
 
 A Python-based business analytics project on profit trends, customer retention, and cost sensitivity in a global e-commerce dataset.
 
+The original Jupyter Notebook does not render properly on GitHub, so I created a GitHub Pages version to provide an accessible HTML preview of the notebook outputs, including the tables, charts, and analysis results.
+
+**Notebook HTML preview**:https://venorrri.github.io/ACC/
 **Interactive Website**:https://vb2kchpbg4vx9xxv3z7lqby.streamlit.app/
 
 ## 1. Problem & User
